@@ -7,5 +7,11 @@ that also has the ability to be tailored to specific crater identification tasks
 ## MARCH 5th, 2025 ##
 Created Initial database to store images.
 The database is setup to store images and the segments that are made from each image.
+Created initial functions to get meta data from image.
+
+NOTES:
+
+Still need to write function to store images in the database.
+Also need to make sure database users are setup correctly.
 
 #### END ####
