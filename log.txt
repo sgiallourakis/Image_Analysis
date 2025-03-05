@@ -4,6 +4,17 @@ This log was created on March 5th/2025. Thus purpose of this project is to trans
 craters, karst structures to create a functioning image segmentation pipeline. The goal is to build a general purpose tool,
 that also has the ability to be tailored to specific crater identification tasks.
 
+
+## IMPORTANT LINKS ##
+
+https://www.lroc.asu.edu/
+
+#####################
+
+
+
+
+
 ## MARCH 5th, 2025 ##
 Created Initial database to store images.
 The database is setup to store images and the segments that are made from each image.
